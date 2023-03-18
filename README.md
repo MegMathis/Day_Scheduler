@@ -27,6 +27,7 @@ https://github.com/MegMathis/Day_Scheduler
 ## Credits
 
 https://day.js.org/
+
 https://day.js.org/docs/en/display/format
 
 Tutoring by Chris B.
